@@ -1,0 +1,1 @@
+sh geturl $1 $2
