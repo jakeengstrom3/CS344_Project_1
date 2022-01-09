@@ -1,0 +1,1 @@
+curl -v --silent $1 --stderr - | grep '<a'
